@@ -36,7 +36,7 @@ Todos los comandos se ejecutan desde la raíz del proyecto, desde una terminal:
 | Comando | Acción |
 | :-- | :-- |
 | `bun install` | Instalar dependencias |
-| `bun run dev` | Inicia el servidor de desarrollo local en `localhost:3000` |
+| `bun run dev` | Inicia el servidor de desarrollo local en `localhost:5173` |
 | `bun run build` | Construir sitio para producción en `./dist/` |
 | `bun run preview` | Obtenga una vista previa de su compilación localmente, antes de implementarla |
 | `bun add` | Agregar paquetes |
